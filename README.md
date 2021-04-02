@@ -1,11 +1,11 @@
 # Hi there 👋
 
-# My name is Abdulrahman Idris and I am a Data Scientist.
+## My name is Abdulrahman Idris and I am a Data Scientist.
 
 
 
-## Me on social media:
+### Me on social media:
 
-Twitter: https://twitter.com/walshene
+### Twitter: https://twitter.com/walshene
 
-LinkedIn: https://www.linkedin.com/in/abdulrahman-idris/
+### LinkedIn: https://www.linkedin.com/in/abdulrahman-idris/
