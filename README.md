@@ -6,6 +6,6 @@
 
 ### Me on social media:
 
-### Twitter: https://twitter.com/walshene
+### [twitter](https://twitter.com/walshene)
 
 ### LinkedIn: https://www.linkedin.com/in/abdulrahman-idris/
