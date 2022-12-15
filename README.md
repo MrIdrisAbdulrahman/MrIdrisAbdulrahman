@@ -1,6 +1,6 @@
 # Hi there 👋
 
-## My name is Abdulrahman Idris, and I am passionate about anything Data related.
+## My name is Abdulrahman Idris, and I am passionate about anything Linux and DevOps related.
 
 
 
